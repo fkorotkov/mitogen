@@ -1,0 +1,336 @@
+
+- hosts: stress
+  tasks:
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+
+
+- hosts: stress
+  tasks:
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+
+
+- hosts: stress
+  tasks:
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+
+
+- hosts: stress
+  tasks:
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+
+
+- hosts: stress
+  tasks:
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+
+
+- hosts: stress
+  tasks:
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+
+- hosts: stress
+  tasks:
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+
+- hosts: stress
+  tasks:
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+
+- hosts: stress
+  tasks:
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+
+- hosts: stress
+  tasks:
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+  - shell: "true"
+    delegate_to: stress1
+    when: "(2 + 2) == inventory_hostname"
+

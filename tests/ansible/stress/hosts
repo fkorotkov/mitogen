@@ -1,0 +1,178 @@
+
+[stress]
+host1 ansible_connection=local
+host2 ansible_connection=local
+host3 ansible_connection=local
+host4 ansible_connection=local
+host5 ansible_connection=local
+host6 ansible_connection=local
+host7 ansible_connection=local
+host8 ansible_connection=local
+host9 ansible_connection=local
+host10 ansible_connection=local
+host11 ansible_connection=local
+host12 ansible_connection=local
+host13 ansible_connection=local
+host14 ansible_connection=local
+host15 ansible_connection=local
+host16 ansible_connection=local
+host17 ansible_connection=local
+host18 ansible_connection=local
+host19 ansible_connection=local
+host20 ansible_connection=local
+host21 ansible_connection=local
+host22 ansible_connection=local
+host23 ansible_connection=local
+host24 ansible_connection=local
+host25 ansible_connection=local
+host26 ansible_connection=local
+host27 ansible_connection=local
+host28 ansible_connection=local
+host29 ansible_connection=local
+host30 ansible_connection=local
+host31 ansible_connection=local
+host32 ansible_connection=local
+host33 ansible_connection=local
+host34 ansible_connection=local
+host35 ansible_connection=local
+host36 ansible_connection=local
+host37 ansible_connection=local
+host38 ansible_connection=local
+host39 ansible_connection=local
+host40 ansible_connection=local
+host41 ansible_connection=local
+host42 ansible_connection=local
+host43 ansible_connection=local
+host44 ansible_connection=local
+host45 ansible_connection=local
+host46 ansible_connection=local
+host47 ansible_connection=local
+host48 ansible_connection=local
+host49 ansible_connection=local
+host50 ansible_connection=local
+host51 ansible_connection=local
+host52 ansible_connection=local
+host53 ansible_connection=local
+host54 ansible_connection=local
+host55 ansible_connection=local
+host56 ansible_connection=local
+host57 ansible_connection=local
+host58 ansible_connection=local
+host59 ansible_connection=local
+host60 ansible_connection=local
+host61 ansible_connection=local
+host62 ansible_connection=local
+host63 ansible_connection=local
+host64 ansible_connection=local
+host65 ansible_connection=local
+host66 ansible_connection=local
+host67 ansible_connection=local
+host68 ansible_connection=local
+host69 ansible_connection=local
+host70 ansible_connection=local
+host71 ansible_connection=local
+host72 ansible_connection=local
+host73 ansible_connection=local
+host74 ansible_connection=local
+host75 ansible_connection=local
+host76 ansible_connection=local
+host77 ansible_connection=local
+host78 ansible_connection=local
+host79 ansible_connection=local
+host80 ansible_connection=local
+host81 ansible_connection=local
+host82 ansible_connection=local
+host83 ansible_connection=local
+host84 ansible_connection=local
+host85 ansible_connection=local
+host86 ansible_connection=local
+host87 ansible_connection=local
+host88 ansible_connection=local
+host89 ansible_connection=local
+host90 ansible_connection=local
+host91 ansible_connection=local
+host92 ansible_connection=local
+host93 ansible_connection=local
+host94 ansible_connection=local
+host95 ansible_connection=local
+host96 ansible_connection=local
+host97 ansible_connection=local
+host98 ansible_connection=local
+host99 ansible_connection=local
+host100 ansible_connection=local
+
+[stress10]
+host1
+host2
+host3
+host4
+host5
+host6
+host7
+host8
+host9
+host10
+
+[stress20]
+host11
+host12
+host13
+host14
+host15
+host16
+host17
+host18
+host19
+host20
+host21
+host22
+host23
+host24
+host25
+host26
+host27
+host28
+host29
+host30
+
+[stress40]
+host31
+host32
+host33
+host34
+host35
+host36
+host37
+host38
+host39
+host40
+host41
+host42
+host43
+host44
+host45
+host46
+host47
+host48
+host49
+host50
+host51
+host52
+host53
+host54
+host55
+host56
+host57
+host58
+host59
+host60
+host61
+host62
+host63
+host64
+host65
+host66
+host67
+host68
+host69
+host70
