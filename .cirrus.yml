@@ -1,0 +1,15 @@
+test_task:
+  container:
+    image: python:2.7
+    cpu: 1
+    memory: 2G
+  environment:
+    MODE: ansible
+    VER: 2.5.5
+    DISTRO: centos6
+
+  pip_cache:
+    folder: ~/.cache/pip
+    fingerprint_script: cat dev_requirements.txt
+    populate_script: pip install -r dev_requirements.txt
+  tests_script: .travis/${MODE}_tests.sh
